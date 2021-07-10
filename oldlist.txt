@@ -1,0 +1,56 @@
+
+
+
+# Jan 2021
+/media/garage/Preroll/Classics/Simpsons THX Plex Preroll.mp4;/media/garage/Preroll/Classics/Old Theater Film Intro.mp4;/media/garage/Preroll/2020/Goodbye 2020 Plex Pre-roll.mp4;/media/garage/Preroll/2020/2020Covid.mkv;/media/garage/Preroll/Classics/Outrun.mp4;/media/garage/Preroll/Winter/Winter Forest LoFi Plex Pre-roll.mp4;/media/garage/Preroll/Winter/Winter Snow Plex Pre-roll.mp4;/media/garage/Preroll/Winter/Winter Ice Plex Pre-roll.mp4;/media/garage/Preroll/Classics/Old Theater Film Intro.mp4
+
+
+# Xmas 2020
+/media/garage/Preroll/2020Covid.mkv;/media/garage/Preroll/LetsAllGoToTheLobby.mp4;/media/garage/Preroll/MagicChristmasTreePlexPre-roll.mp4;/media/garage/Preroll/SnowGlobePlexPre-roll.mp4;/media/garage/Preroll/SnowmanPlexPre-roll.mp4
+
+
+#add one:
+/media/garage/Preroll/
+
+
+#Original 4
+/media/garage/Preroll/2020Covid.mkv;/media/garage/Preroll/LetsAllGoToTheLobby.mp4;/media/garage/Preroll/PopcornPlex.mp4;/media/garage/Preroll/FeaturePresentation1990.mp4;
+
+#December
+/media/garage/Preroll/MagicChristmasTreePlexPre-roll.mp4;/media/garage/Preroll/SnowGlobePlexPre-roll.mp4;/media/garage/Preroll/SnowmanPlexPre-roll.mp4
+
+# 80s only
+/media/garage/Preroll/Summer/80's Retro Style.mp4;
+/media/garage/Preroll/Misc/Discowave Plex Pre-roll.mp4;
+
+
+
+# cd / && find /media/garage/Preroll -type f >> oldlist.txt
+/media/garage/Preroll/Misc/Discowave Plex Pre-roll.mp4
+/media/garage/Preroll/Misc/PopcornPlex.mp4
+/media/garage/Preroll/Misc/coding.mp4
+/media/garage/Preroll/Summer/Summer Splash Plex Pre-roll.mp4
+/media/garage/Preroll/Summer/80's Retro Style.mp4
+/media/garage/Preroll/Classics/Simpsons THX Plex Preroll.mp4
+/media/garage/Preroll/Classics/FeaturePresentation1990.mp4
+/media/garage/Preroll/Classics/Old Theater Film Intro.mp4
+/media/garage/Preroll/Classics/LetsAllGoToTheLobby.mp4
+/media/garage/Preroll/Classics/HBO static.mp4
+/media/garage/Preroll/Classics/Outrun.mp4
+/media/garage/Preroll/Halloween/Spooky Halloween Plex Pre-roll.mp4
+/media/garage/Preroll/Halloween/Happy Halloween Plex Pre-roll.mp4
+/media/garage/Preroll/Halloween/Halloween Spider Plex Pre-roll.mp4
+/media/garage/Preroll/Halloween/Halloween Pack V08.mp4
+/media/garage/Preroll/Autumn/Fall Fox Plex Pre-roll.mp4
+/media/garage/Preroll/Autumn/Water Leaves Plex Bumper.mp4
+/media/garage/Preroll/2020/Goodbye 2020 Plex Pre-roll.mp4
+/media/garage/Preroll/2020/2020Covid.mkv
+/media/garage/Preroll/Winter/Winter Forest LoFi Plex Pre-roll.mp4
+/media/garage/Preroll/Winter/Winter Snow Plex Pre-roll.mp4
+/media/garage/Preroll/Winter/Winter Ice Plex Pre-roll.mp4
+/media/garage/Preroll/Christmas/MagicChristmasTreePlexPre-roll.mp4
+/media/garage/Preroll/Christmas/SnowGlobePlexPre-roll.mp4
+/media/garage/Preroll/Christmas/Glitter Merry Christmas Plex Pre-roll.mp4
+/media/garage/Preroll/Christmas/SnowmanPlexPre-roll.mp4
+
+
